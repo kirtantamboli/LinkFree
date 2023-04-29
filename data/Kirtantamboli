@@ -1,0 +1,28 @@
+{
+"name": "KIRTAN TAMBOLI",
+"type": "personal",
+"bio": "ENGINEER",
+"links": [
+
+    {
+
+      "name": "Follow me on facebook",
+
+      "url": "https://Facebook.com/kirtan Tamboli",
+
+      "icon": "faFacebook"
+
+    },
+
+    {
+
+      "name": "Follow me on Instagram",
+
+      "url": "https://www.instagram.com/kirtan_tamboli/",
+
+      "icon": "FaInstagram"
+
+    }
+
+  ]
+}
